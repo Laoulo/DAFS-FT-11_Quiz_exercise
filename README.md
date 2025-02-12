@@ -24,4 +24,7 @@ cd project-name
 **Your Name**
 
 gitHub : [your username](https://github.com/your-username)
+git push
 
+
+## ⭐️ Don't forget to ***star*** if you like this project
