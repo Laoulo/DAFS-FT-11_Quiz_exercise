@@ -25,5 +25,3 @@ cd project-name
 
 gitHub : [your username](https://github.com/your-username)
 
-## ⭐️ Don't forget to ***star*** if you like this project
-
